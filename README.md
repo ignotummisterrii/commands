@@ -39,11 +39,11 @@ Agregar una canción a la lista de reproducción
 * **25** coda
 * **26** roger and me
 * **27** docks
-* **track28** kurast
-* **track29** maggot
-* **track30** mephisto
-* **track31**  sewer
-* **track32** tristram
+* **28** kurast
+* **29** maggot
+* **30** mephisto
+* **31**  sewer
+* **32** tristram
 
 ### Diablo II LoD OST
 
