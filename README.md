@@ -47,7 +47,7 @@ Agregar una canción a la lista de reproducción
 
 ### Diablo II LoD OST
 
-* **33** from './01.-fortress.mp3';
+* **33** fortress
 * **34** halls
 * **35** ancients
 * **36** siege
