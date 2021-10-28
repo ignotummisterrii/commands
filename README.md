@@ -1,4 +1,4 @@
-# Lista de comandos displonibles
+# Lista de comandos disponibles
 ## Música
 Agregar una canción a la lista de reproducción
 ```
